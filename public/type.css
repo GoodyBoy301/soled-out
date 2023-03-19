@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Aeonik';
+    src: local('Aeonik Regular'), local('Aeonik-Regular'),
+        url('fonts/Aeonik-Regular.woff2') format('woff2'),
+        url('fonts/Aeonik-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Maghfirea';
+    src: local('Maghfirea'), local('MaghfireaRegular'),
+        url('fonts/MaghfireaRegular.woff2') format('woff2'),
+        url('fonts/MaghfireaRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Goblin One';
+    src: local('Goblin One'), local('GoblinOne'),
+        url('fonts/GoblinOne.woff2') format('woff2'),
+        url('fonts/GoblinOne.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aeonik';
+    src: local('Aeonik Bold'), local('Aeonik-Bold'),
+        url('fonts/Aeonik-Bold.woff2') format('woff2'),
+        url('fonts/Aeonik-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
